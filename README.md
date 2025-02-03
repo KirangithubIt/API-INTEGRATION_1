@@ -21,3 +21,6 @@ Wind speed and direction: Important for understanding the weather impact.
 Humidity levels: Often a critical factor in determining comfort.
 Weather conditions: Such as sunny, rainy, cloudy, etc.
 
+# OUTPUT OF TASK
+![Image](https://github.com/user-attachments/assets/333135c4-47cf-4182-ae4c-5d24a0f97e21)
+
